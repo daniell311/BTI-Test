@@ -2,8 +2,8 @@
 
 How to Run soal2
 
-1. Change directory to ././soal2
-2. Instal virtual environment using this following command
+1. Change directory to "././soal2"
+2. Install virtual environment using this following command
    "pip install virtualenv"
 3. create Virtual Environment with name "venv" using this following command
     "virtualenv venv" 
@@ -19,7 +19,7 @@ How to Run soal2
 How to Run Soal3
 
 1. Change directory to "././soal3"
-2. Instal virtual environment using this following command
+2. Install virtual environment using this following command
    "pip install virtualenv"
 3. create Virtual Environment with name "venv" using this following command
     "virtualenv venv"
