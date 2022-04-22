@@ -26,7 +26,7 @@ How to Run Soal3
 4. activate virtualenv with the following command using command prompt
   ".\venv\Scripts\activate"
 5. create MySQL Database name "user" 
-6. Import database "tbl_cmb_bak" to database has been created on step 5
+6. Import database "tbl_cmb_bak" to database that has been created on step 5
 7. Install the requirement with the following command
   "pip install -r requirements.txt"
 8. Run program using uvicorn server with this following command
